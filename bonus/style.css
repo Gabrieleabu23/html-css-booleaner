@@ -20,13 +20,15 @@ h1{
     margin-bottom: 0;
 }
 header img{
-    width: 200px;
+    height: 50px;
     padding-top:20px;
-    margin-left: 8%;
+ 
 }
 .bg_pattern{
     background-image: url(../img/pattern.png);
-    background-size: 25%;
+    background-size: 20em;
+    background-position: top;
+    
 }
 #blue_text{
     color: deepskyblue;

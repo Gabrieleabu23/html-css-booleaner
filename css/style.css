@@ -26,7 +26,8 @@ header img{
 }
 .bg_pattern{
     background-image: url(../img/pattern.png);
-    background-size: 15%;
+    background-size: 20em;
+    background-position: top;
 }
 #blue_text{
     color: deepskyblue;
