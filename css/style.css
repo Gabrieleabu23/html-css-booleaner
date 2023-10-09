@@ -1,15 +1,9 @@
 /* Parte generale */
-body{
-    padding: 0;
-    margin: 0;
-}
+
 /* Fine parte generale */
 
 /* Parte header */
-header{
-    padding: 0;
-    margin: 0;
-}
+
 #color_header{
     background-color: dodgerblue;
 }
@@ -31,3 +25,28 @@ header p {
     color: gray;
 }
 /* Fine Parte header */
+/* Inzio parte main */
+#bg_yellow{
+    background-color: yellow;
+}
+ul{
+    padding-left: 20px;
+}
+thead{
+    background-color:cornflowerblue;   
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+th{
+    color: white;
+}
+td{
+    font-size: 12px;
+    width: 400px;
+}
+.blue_row{
+    background-color: skyblue;
+}
+/* Fine parte main */
