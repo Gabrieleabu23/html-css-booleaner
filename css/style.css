@@ -1,0 +1,33 @@
+/* Parte generale */
+body{
+    padding: 0;
+    margin: 0;
+}
+/* Fine parte generale */
+
+/* Parte header */
+header{
+    padding: 0;
+    margin: 0;
+}
+#color_header{
+    background-color: dodgerblue;
+}
+header img{
+    width: 100px;
+    padding-top:20px ;
+}
+.bg_pattern{
+    background-image: url(../img/pattern.png);
+    background-size: 15%;
+}
+#blue_text{
+    color: deepskyblue;
+}
+#text_low{
+    font-size: 12px;
+}
+header p {
+    color: gray;
+}
+/* Fine Parte header */
