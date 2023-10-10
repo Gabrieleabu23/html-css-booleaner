@@ -1,33 +1,34 @@
 /* Parte generale */
+
 body{
     margin: 0;
     padding: 0;
 }
-main , footer{
-    margin: 3px;
-    padding: 3px;
+.container{
+    width: 1000px;
+    margin: auto;
 }
+
 /* Fine parte generale */
 
 /* Parte header */
 
 header{
-    margin: 0px;
-    padding: 0;
     background-color:#4ea0ff;
 }
 h1{
     margin-bottom: 0;
 }
 header img{
-    width: 200px;
+    height: 50px;
     padding-top:20px;
-    margin-left: 10px;
+ 
 }
 .bg_pattern{
     background-image: url(../img/pattern.png);
     background-size: 20em;
     background-position: top;
+    
 }
 #blue_text{
     color: deepskyblue;
@@ -39,6 +40,7 @@ header p  {
     color: gray;
 }
 /* Fine Parte header */
+
 /* Inzio parte main */
 #bg_yellow{
     background-color: yellow;
